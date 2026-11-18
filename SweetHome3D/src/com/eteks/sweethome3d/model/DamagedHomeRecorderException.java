@@ -26,7 +26,8 @@ import java.util.List;
  * @author Emmanuel Puybaret
  * @since 4.4 
  */
-public class DamagedHomeRecorderException extends RecorderException {
+public class
+DamagedHomeRecorderException extends RecorderException {
   private static final long serialVersionUID = 1L;
   
   private Home damagedHome;
